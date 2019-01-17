@@ -1,4 +1,12 @@
-﻿namespace SimpleConsole
+﻿/* 
+ * Grading ID: M5477
+ * Lab: 1
+ * Due Date: Jan 20 2019
+ * Course Section: 01
+ * Description: This program outputs my grading ID, along with my hobbies, favorite book, and movie.
+ */
+
+namespace SimpleConsole
 {
     class Program
     {
